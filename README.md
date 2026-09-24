@@ -5,8 +5,10 @@
 </div>
 <br clear="both">
 
+<br clear="both">
+
 <div data-importer="image" align="center">
-  <img data-importer="image" height="100" src="https://www.image2url.com/r2/default/images/1790292302590-380fbc6a-59ce-4714-8ed5-ec4ddb9e59fa.jpeg"  />
+  <img data-importer="image" height="85" src="https://www.image2url.com/r2/default/images/1790293008469-54f0cf0e-cb9d-413b-b49c-677300568bf9.jpeg"  />
 </div>
 
 ###
