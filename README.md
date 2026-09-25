@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://www.image2url.com/r2/default/gifs/1790294303925-bfc50e7b-5593-4408-930b-21ffe3c8e2c8.gif"  />
+  <img data-importer="image" height="230" src="https://www.image2url.com/r2/default/gifs/1790302091803-cca42642-1149-4da9-b288-e6f8f068ead8.gif"  />
 </div>
 
 ###
