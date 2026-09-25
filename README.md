@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://juicy.atabook.org">新BOOK</a> ⚡︎
+  <a href="https://juicy.atabook.org">新BOOK</a> 🥤
 
 ###
 
